@@ -1,0 +1,33 @@
+.NavMovieDetails{
+    color: #212121;
+    }
+.ActiveNavMovieDetails{
+       color:#db1212 
+    }
+.buttonReturnToMenu{
+       margin: 10px;
+    }
+.mainDetails{
+       display: flex;
+       flex-direction: row;
+       align-items: stretch;
+       justify-content:start;
+       
+    }
+.movieDetailsOverview{
+       width: auto;
+    }
+.movieDetailsInform{
+       margin: 15px;
+    }
+.movieDetailsImg{
+   object-fit: cover;
+}
+.listAdditinalInformation{
+   list-style: none;
+}
+.imgAdditinalInformation{
+   width: 360px ;
+   height: 420px;
+   object-fit: cover;
+}

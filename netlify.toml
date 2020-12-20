@@ -1,0 +1,9 @@
+[build]
+publish = "build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+//https://igormazur78-goit-react-hw-04-movies.netlify.app
